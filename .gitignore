@@ -1,0 +1,7 @@
+.venv/
+.tools/
+.cache/
+.env.local
+__pycache__/
+*.log
+recordings/

@@ -1,0 +1,9 @@
+[project]
+name = "voice-agent-lab"
+version = "0.1.0"
+description = "逐步学习和修改 LiveKit 中文语音 agent"
+requires-python = ">=3.10,<3.15"
+dependencies = [
+  "livekit-agents==1.8.4",
+  "python-dotenv>=1.0,<2",
+]
